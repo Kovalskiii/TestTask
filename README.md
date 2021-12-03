@@ -31,3 +31,21 @@ Map([1,2,3], x => x.ToString()) = ["1","2","3"]
 
 Map([], ...) == []
 
+
+# Build
+use codesandbox link: https://codesandbox.io/s/gallant-platform-mwyy2?file=/src/index.ts
+
+or 
+
+1)Clone project and in the terminal execute command: tsc index.ts 
+
+.js - will be generated
+
+2)Now execute command: node index.js - in console will be shown the result of 3 problems.
+<p align="left">
+<img src=""/>
+</p>
+
+
+
+
