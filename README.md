@@ -1,5 +1,19 @@
 # TestTask
 
+# Build
+Use codesandbox link: https://codesandbox.io/s/gallant-platform-mwyy2?file=/src/index.ts
+
+or 
+
+1)Clone project and in the terminal execute command: tsc index.ts 
+
+.js - will be generated
+
+2)Now execute command: node index.js - in console will be shown the result of 3 problems.
+<p align="left">
+<img src="https://user-images.githubusercontent.com/49062638/144597688-ac26a77b-e3ef-4679-b600-7de9967fec8e.png"/>
+</p>
+
 # Problem 1: Implement the following method Map without using library methods
 
 Map applies a function to each element of a list and returns the resulting list.
@@ -32,19 +46,7 @@ Map([1,2,3], x => x.ToString()) = ["1","2","3"]
 Map([], ...) == []
 
 
-# Build
-use codesandbox link: https://codesandbox.io/s/gallant-platform-mwyy2?file=/src/index.ts
 
-or 
-
-1)Clone project and in the terminal execute command: tsc index.ts 
-
-.js - will be generated
-
-2)Now execute command: node index.js - in console will be shown the result of 3 problems.
-<p align="left">
-<img src=""/>
-</p>
 
 
 
